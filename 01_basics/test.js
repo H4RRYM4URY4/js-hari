@@ -1,0 +1,1 @@
+console.log("Linux Practical 3")
